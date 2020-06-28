@@ -1,6 +1,14 @@
 ﻿self.assetsManifest = {
   "assets": [
     {
+      "hash": "sha256-Cgdy8Dsy\/IR9lZ35uGWZmPZOza2l8CjvZP75EYpIejg=",
+      "url": ".gitattributes"
+    },
+    {
+      "hash": "sha256-frcCV1k9oG9oKj3dpUqdJg1PxRT2RSN\/XKdLCPjaYaY=",
+      "url": ".nojekyll"
+    },
+    {
       "hash": "sha256-eejatZo6P5lRFVvHUqjG8HbdPwjsyzLrFEOMBTbIAeY=",
       "url": "404.html"
     },
