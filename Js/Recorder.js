@@ -40,7 +40,9 @@ function onRecordingReady(e) {
     audio.src = window.Urlblb;
 }
 window.GetUrl = async () => {
-    return window.Urlblb;
+    var u1 = window.Urlblb;
+    window.Urlblb = null;
+    return u1;
 }
 window.ShowRecAudio = async () => {
     var audio = document.getElementById('audio');
