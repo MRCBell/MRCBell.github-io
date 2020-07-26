@@ -1,4 +1,4 @@
-var recordButton, stopButton, recorder;
+﻿var recordButton, stopButton, recorder;
 var isAudRec = false;
 
 window.InitRecord = async () => {
